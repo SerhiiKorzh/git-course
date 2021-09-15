@@ -1,1 +1,0 @@
-print('my document of python')
